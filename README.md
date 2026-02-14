@@ -1,25 +1,20 @@
 <div align="center">
 
-# Hi there, I'm Mr2025x 👋
+# 这里是痞老板的Github!
 
 <a href="https://github.com/Mr2025x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Information+Engineering+Student;Crafting+Web+Apps+with+Next.js;Exploring+AI+Agent+Workflows;Mathematical+Modeling+%26+Data+Viz;Diving+into+Modern+Physics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hello%2C+World;%3E+Welcome+to+Plankton%27Notebook;%3E+Talk+is+cheap.+Show+me+the+code.;%3E+%23include+our+future" alt="Typing SVG" />
 </a>
 
 <br/>
-
-Welcome to my digital garden! 🌱 
-<br/>
-Passionate about building elegant web solutions, algorithmic problem solving, and the fascinating world of analog electronics.
-
-<br/>
+Stay hungry! Keep learning!
 <br/>
 
-<a href="#">
+<a href="wiki.plankton2005.best">
   <img src="https://img.shields.io/badge/-My_Wiki_%2F_Notebook-181717?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Notebook" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="#">
+<a href="blog.plankton2005.best">
   <img src="https://img.shields.io/badge/-My_Blog-181717?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Blog" />
 </a>
 

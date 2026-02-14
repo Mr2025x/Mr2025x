@@ -6,12 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hello%2C+World;%3E+Welcome+to+Plankton%27Notebook;%3E+Talk+is+cheap.+Show+me+the+code.;%3E+%23include+our+future" alt="Typing SVG" />
 </a>
 
-<br/>
-Stay hungry! Keep learning!
-<br/>
-
 <a href="wiki.plankton2005.best">
-  <img src="https://img.shields.io/badge/-Notebook-181717?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Notebook" height="45"/>
+  <img src="https://img.shields.io/badge/-My_Notebook-181717?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Notebook" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="blog.plankton2005.best">
@@ -21,19 +17,11 @@ Stay hungry! Keep learning!
 <br/>
 <br/>
 
-### 📊 技术雷达 & 荣誉
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr2025x&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr2025x&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Mr2025x's Activity Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr2025x&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Mr2025x's Trophies" />
-</p>
-
 <br/>
 
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr2025x/Mr2025x/output/github-contribution-grid-snake-dark.svg">

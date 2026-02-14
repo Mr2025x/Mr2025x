@@ -3,7 +3,7 @@
 # 这里是痞老板的Github!
 
 <a href="https://github.com/Mr2025x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hello%2C+World;%3E+Welcome+to+Plankton%27Notebook;%3E+Talk+is+cheap.+Show+me+the+code.;%3E+%23include+our+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hello%2C+World;%3E+Welcome+to+Plankton%27Notebook;%3E+Talk+is+cheap.+Show+me+the+code.;%3E+%23include+our+future" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,28 +11,26 @@ Stay hungry! Keep learning!
 <br/>
 
 <a href="wiki.plankton2005.best">
-  <img src="https://img.shields.io/badge/-My_Wiki_%2F_Notebook-181717?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Notebook" />
+  <img src="https://img.shields.io/badge/-Notebook-181717?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Notebook" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="blog.plankton2005.best">
-  <img src="https://img.shields.io/badge/-My_Blog-181717?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Blog" />
+  <img src="https://img.shields.io/badge/-My_Blog-181717?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Blog" height="45"/>
 </a>
 
 <br/>
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### 📊 技术雷达 & 荣誉
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,html,css,vercel&theme=dark" alt="Web Dev" />
-</a>
-<br/>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,latex,linux,git&theme=dark" alt="Data & Math" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr2025x&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr2025x&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Mr2025x's Trophies" />
+</p>
+
 <br/>
 
 ### 🐍 Contribution Snake

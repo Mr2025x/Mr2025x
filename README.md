@@ -3,7 +3,7 @@
 # 这里是痞老板的Github!
 
 <a href="https://github.com/Mr2025x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hello%2C+World;%3E+Welcome+to+Plankton%27Notebook;%3E+Talk+is+cheap.+Show+me+the+code.;%3E+%23include+our+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%3E+Hello%2C+World;%3E+Stay+hungry;%3E+Show+me+the+code.;%3E+%23include+our+future" alt="Typing SVG" />
 </a>
 
 <a href="https://wiki.plankton2005.best"><img src="https://img.shields.io/badge/-My_Notebook-181717?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Notebook" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://blog.plankton2005.best"><img src="https://img.shields.io/badge/-My_Blog-181717?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Blog" height="45"/></a>
